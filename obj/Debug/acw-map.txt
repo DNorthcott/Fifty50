@@ -1,0 +1,4 @@
+Fifty50.MainActivity, Fifty50;md5c8690a06513ccb36abab8e523c2ec51b.MainActivity
+Fifty50.MainActivity, Fifty50, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c8690a06513ccb36abab8e523c2ec51b.MainActivity
+Fifty50.MainActivity;md5c8690a06513ccb36abab8e523c2ec51b.MainActivity
+fifty50.MainActivity;md5c8690a06513ccb36abab8e523c2ec51b.MainActivity

@@ -1,0 +1,2 @@
+android.app.Application
+Fifty50.Fifty50

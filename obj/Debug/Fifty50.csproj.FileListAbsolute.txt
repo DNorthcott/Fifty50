@@ -1,0 +1,15 @@
+C:\Projects\5050_Console\Fifty50\bin\Debug\Fifty50.dll
+C:\Projects\5050_Console\Fifty50\bin\Debug\Fifty50.pdb
+C:\Projects\5050_Console\Fifty50\bin\Debug\Fifty50.Fifty50.apk
+C:\Projects\5050_Console\Fifty50\bin\Debug\Fifty50.Fifty50-Signed.apk
+C:\Projects\5050_Console\Fifty50\obj\Debug\Fifty50.csprojResolveAssemblyReference.cache
+C:\Projects\5050_Console\Fifty50\obj\Debug\Fifty50.csproj.CoreCompileInputs.cache
+C:\Projects\5050_Console\Fifty50\obj\Debug\Fifty50.dll
+C:\Projects\5050_Console\Fifty50\obj\Debug\Fifty50.pdb
+C:\Projects\5050_Console\Fifty50\obj\Debug\android\bin\Fifty50.Fifty50.apk
+C:\Projects\5050_Console\Fifty50\obj\Debug\res\layout\main.xml
+C:\Projects\5050_Console\Fifty50\obj\Debug\res\values\strings.xml
+C:\Projects\5050_Console\Fifty50\obj\Debug\R.cs.flag
+C:\Projects\5050_Console\Fifty50\obj\Debug\uploadflags.txt
+C:\Projects\5050_Console\Fifty50\bin\Debug\Fifty50.dll.mdb
+C:\Projects\5050_Console\Fifty50\obj\Debug\android\assets\Fifty50.dll.mdb
