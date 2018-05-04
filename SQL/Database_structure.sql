@@ -1,19 +1,22 @@
 CREATE TABLE IF NOT EXISTS Type
-(Code TEXT PRIMARY KEY, 
- Name TEXT);
+(Code TEXT(2) PRIMARY KEY, 
+ Name TEXT (50));
+
+
 
 CREATE TABLE IF NOT EXISTS Person
 (ID INTEGER PRIMARY KEY AUTOINCREMENT, 
- Email TEXT, 
- Fname TEXT, 
- LName TEXT);
+ Email TEXT(256), 
+ Fname TEXT(50), 
+ LName TEXT(50) 
+ );
  
 CREATE TABLE IF NOT EXISTS Transactions
 (Person INT,
  DateTime TEXT,
- Comments TEXT,
+ Comments TEXT (300),
  Value NUMERIC, 
- Type TEXT,
+ Type TEXT(2) ,
  PRIMARY KEY (Person, DateTime), 
  FOREIGN KEY (Person) references Person(ID),
  FOREIGN KEY (Type) references Type(Code) 

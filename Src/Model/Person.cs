@@ -35,24 +35,6 @@ namespace Fifty50.Src.Model
             return 0;
         }
 
-        /// <summary>
-        /// Persons are considered equal if they have the same ID.
-        /// </summary>
-        /// <param name="obj"></param>
-        /// <returns></returns>
-        public override bool Equals(Object obj)
-        {
-            return true;
-        }
-
-        /// <summary>
-        /// Returns the hash code for this person.
-        /// </summary>
-        /// <returns></returns>
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
-        }
 
         /// <summary>
         /// Returns a string in the format "FirstName LastName"
